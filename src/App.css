@@ -1,0 +1,23 @@
+img {
+  width: 200px;
+  height: 200px;
+}
+body {
+  background-color: rgb(212, 212, 155);
+}
+h5 {
+  text-align: center;
+  color: rgb(35, 116, 102);
+}
+h3 {
+  text-align: center;
+  text-decoration: dotted;
+  color: rgb(117, 54, 29);
+}
+.mesi {
+  text-align: center;
+}
+.showmore {
+  color: blue;
+  font-size: larger;
+}
